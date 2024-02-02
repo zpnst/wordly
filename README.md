@@ -15,4 +15,5 @@ In the file dictionary.txt The words that participate in the game are presented,
 The rules of the game are easy to describe with an example.                                                                                                                                                
 You have 6 attempts to guess the word made by the computer.                                                                                                                                                
 If the letter is in its place in the hidden word, it lights up in green, if the letter is in the hidden word, but it is not in its place, it lights up in blue.                                            
-![image](https://github.com/zpnst/wordly/assets/105946529/f0247ddc-5544-47ab-8b0d-c1b2509fb38e)
+![image](https://github.com/zpnst/wordly/assets/105946529/79188bad-25bd-4da0-9114-2a7f611be23e)
+
